@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-11 -15.2 535.7 636.3" role="img" aria-labelledby="title desc">
+  <title id="title">Apricut</title>
+  <desc id="desc">A tilted, faceted apricot cut into three pieces around a capital A, topped with two green leaves.</desc>
+  <defs>
+    <clipPath id="left-piece"><path d="M161 166 L240 177 L202 307 L158 436 L132 479 L-2 524 L20 262 Z"/></clipPath>
+    <clipPath id="right-piece"><path d="M302 177 L374 167 L468 284 L467 459 L428 498 L372 431 L334 306 Z"/></clipPath>
+    <clipPath id="bottom-piece"><path d="M197 457 L342 457 L371 530 L267 598 L168 530 Z"/></clipPath>
+  </defs>
+  <g transform="rotate(-21 240 322)">
+    <g>
+      <path d="M260 169 C226 151 198 119 193 75 C225 87 248 118 260 169 Z" fill="#34a95a"/>
+      <path d="M260 169 C273 102 322 52 397 47 C386 112 337 157 260 169 Z" fill="#25a457"/>
+      <path d="M260 169 C300 127 344 86 397 47 C389 104 352 145 260 169 Z" fill="#167a4d"/>
+      <path d="M260 169 C273 102 322 52 397 47 C340 60 291 106 260 169 Z" fill="#58b747"/>
+    </g>
+    <g clip-path="url(#left-piece)" stroke="#e96a20" stroke-width="1" stroke-linejoin="round">
+      <rect x="-10" y="158" width="260" height="378" fill="#ee5a2b"/>
+      <polygon points="20,262 161,166 240,177 218,263" fill="#ffad27"/>
+      <polygon points="161,166 240,177 218,263" fill="#ff8f27"/>
+      <polygon points="20,262 218,263 159,308" fill="#f47a23"/>
+      <polygon points="20,262 159,308 101,389" fill="#dc4d2b"/>
+      <polygon points="159,308 218,263 158,436 101,389" fill="#eb5428"/>
+      <polygon points="-2,524 20,262 101,389 96,456" fill="#f05d24"/>
+      <polygon points="-2,524 96,456 132,479" fill="#d93c2b"/>
+    </g>
+    <g clip-path="url(#right-piece)" stroke="#e96a20" stroke-width="1" stroke-linejoin="round">
+      <rect x="294" y="158" width="183" height="350" fill="#ef5b2a"/>
+      <polygon points="302,177 374,167 468,284 335,273" fill="#ffad2a"/>
+      <polygon points="302,177 374,167 335,273" fill="#ff8c25"/>
+      <polygon points="335,273 468,284 428,329" fill="#f27922"/>
+      <polygon points="335,273 428,329 372,431" fill="#ea5528"/>
+      <polygon points="428,329 468,284 467,459 443,425" fill="#f05f24"/>
+      <polygon points="372,431 443,425 428,498" fill="#d9402b"/>
+    </g>
+    <g stroke="#e76622" stroke-width="1" stroke-linejoin="round">
+      <polygon points="267,276 267,398 218,398" fill="#e6532c"/>
+      <polygon points="267,276 316,398 267,398" fill="#f57424"/>
+    </g>
+    <g clip-path="url(#bottom-piece)" stroke="#e76a20" stroke-width="1" stroke-linejoin="round">
+      <rect x="160" y="450" width="220" height="156" fill="#f47a23"/>
+      <polygon points="197,457 267,457 238,497 168,530" fill="#d9472c"/>
+      <polygon points="267,457 342,457 371,530 302,497" fill="#df4b29"/>
+      <polygon points="168,530 238,497 267,598" fill="#e6582a"/>
+      <polygon points="238,497 267,457 302,497 267,598" fill="#f47a23"/>
+      <polygon points="302,497 371,530 267,598" fill="#f26d22"/>
+    </g>
+  </g>
+</svg>
